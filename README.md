@@ -8,7 +8,7 @@
 2. [Objetivo Principal](#objetivo-principal)
 3. [Características](#características)
 4. [Herramientas Utilizadas](#herramientas-utilizadas)
-5. [Contacto](#contacto)
+5. [Contacto](#Autor-y-Reconocimientos)
 
 ## Descripción
 Este proyecto es un conversor de monedas desarrollado como parte del Alura Challenge. Utiliza la API de ExchangeRate para obtener tasas de cambio en tiempo real y permite realizar conversiones entre diferentes divisas.
@@ -26,6 +26,6 @@ Crear un programa capaz de realizar conversiones en las divisas de diferentes mo
 ![Static Badge](https://img.shields.io/badge/Gson_2.11.0-blue)
 ![Static Badge](https://img.shields.io/badge/Java_17-orange)
 
-## Autores y Reconocimientos
+## Autor y Reconocimientos
 - **Diego Quiros** - *Proyecto realizado* - [diegovq12](https://github.com/diegovq12)
 - Agradecimientos especiales a [Alura](https://www.alura.com.br) por el desafío y los recursos proporcionados.
