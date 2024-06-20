@@ -8,7 +8,7 @@
 2. [Objetivo Principal](#objetivo-principal)
 3. [Características](#características)
 4. [Herramientas Utilizadas](#herramientas-utilizadas)
-5. [Contacto](#Autor-y-Reconocimientos)
+5. [Creditos](#Autor-y-Reconocimientos)
 
 ## Descripción
 Este proyecto es un conversor de monedas desarrollado como parte del Alura Challenge. Utiliza la API de ExchangeRate para obtener tasas de cambio en tiempo real y permite realizar conversiones entre diferentes divisas.
